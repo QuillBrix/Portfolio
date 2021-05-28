@@ -327,7 +327,7 @@ ul#nav li.current a { color: #F06000; }
 
 .c {
   	width: 60%;
-  	-moz-animation: c 5s ease;
+  	-moz-animation: c 15s ease;
   	-webkit-animation: c 5s ease;
 }
 .java {
