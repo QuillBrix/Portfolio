@@ -327,33 +327,33 @@ ul#nav li.current a { color: #F06000; }
 
 .c {
   	width: 60%;
-  	-moz-animation: c 15s ease;
-  	-webkit-animation: c 15s ease;
+  	-moz-animation: c 45s ease;
+  	-webkit-animation: c 45s ease;
 }
 .java {
   	width: 55%;
-  	-moz-animation: java 5s ease;
-  	-webkit-animation: java 5s ease;
+  	-moz-animation: java 45s ease;
+  	-webkit-animation: java 45s ease;
 }
 .node {
   	width: 50%;
-  	-moz-animation: node 5s ease;
-  	-webkit-animation: node 5s ease;
+  	-moz-animation: node 45s ease;
+  	-webkit-animation: node 45s ease;
 }
 .htmlcss {
   	width: 90%;
-  	-moz-animation: htmlcss 5s ease;
-  	-webkit-animation: htmlcss 5s ease;
+  	-moz-animation: htmlcss 45s ease;
+  	-webkit-animation: htmlcss 45s ease;
 }
 .php {
   	width: 80%;
-  	-moz-animation: php 5s ease;
-  	-webkit-animation: php 5s ease;
+  	-moz-animation: php 45s ease;
+  	-webkit-animation: php 45s ease;
 }
 .sql {
   	width: 50%;
-  	-moz-animation: sql 5s ease;
-  	-webkit-animation: sql 5s ease;
+  	-moz-animation: sql 45s ease;
+  	-webkit-animation: sql 45s ease;
 }
 
 @-moz-keyframes c {
