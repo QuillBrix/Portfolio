@@ -282,8 +282,8 @@
 
             <div class="ten columns">
 
-                  <h2 style="color:cadetblue">siddharth.m.shukla@gmail.com</h2>
-                  <h2 style="color:cadetblue">+91987654321</h2>
+                  <h2 style="color:cadetblue">siddharth.m.shukla28@gmail.com</h2>
+                  <h2 style="color:cadetblue">+919429085082</h2>
             </div>
 
          </div>
